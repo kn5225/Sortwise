@@ -31,7 +31,7 @@ Press ESC at any time to exit the program.
 
 FILES
 -----
-Waste_Seg.py          - Main application script (webcam + inference loop)
+WasteSeg.py          - Main application script (webcam + inference loop)
 
 fix_model.py          - One-time script to patch the model file for
                           compatibility with newer versions of Keras/TensorFlow
@@ -43,6 +43,7 @@ keras_model_fixed.h5  - Patched model file produced by fix_model.py
                           
 labels.txt            - List of class labels corresponding to model outputs
 
+WasteSeg_original.py   - Original main application script
 
 REQUIREMENTS
 ------------

@@ -1,0 +1,8 @@
+0 Paper
+1 Plastic
+2 Can
+3 Cardboard
+4 Cloth
+5 Empty
+6 Humans
+7 Glass

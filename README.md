@@ -69,7 +69,7 @@ SETUP AND USAGE
 
 2. Run the main application:
 
-      python Waste_Seg.py
+      python WasteSeg.py
 
 3. Point your webcam at a waste item. The detected category and confidence
    score will be shown as an overlay on the live video window.
@@ -130,8 +130,8 @@ NOTES
 -----
 - The model was originally trained using Google Teachable Machine, which
   exports in the Keras 2 .h5 format (MobileNetV2 backbone).
-- keras_model.h5 (the original file) is kept for reference but should NOT
+- keras_model_original.h5 (the original file) is kept for reference but should NOT
   be used directly at runtime on Python 3.13 + TensorFlow 2.20+.
-- Always use keras_model_fixed.h5 as the model path in Waste_Seg.py.
+- Always use keras_model_fixed.h5 as the model path in WasteSeg.py.
 
 ================================================================================

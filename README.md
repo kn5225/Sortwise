@@ -40,6 +40,7 @@ keras_model.h5        - Original trained model (exported from Teachable Machine)
 
 keras_model_fixed.h5  - Patched model file produced by fix_model.py
                           (use this one at runtime)
+                          
 labels.txt            - List of class labels corresponding to model outputs
 
 

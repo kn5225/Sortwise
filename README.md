@@ -1,6 +1,7 @@
+================================================================================
                          SORTWISE - WASTE SEGMENTATION
                               Real-Time Classifier
-================================================================================
+
 OVERVIEW
 --------
 Sortwise is a real-time waste classification system that uses a webcam feed and

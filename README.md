@@ -134,4 +134,4 @@ NOTES
   be used directly at runtime on Python 3.13 + TensorFlow 2.20+.
 - Always use keras_model_fixed.h5 as the model path in WasteSeg.py.
 
-================================================================================
+--------------------------------------------------------------------------------

@@ -47,12 +47,12 @@ WasteSeg_original.py   - Original main application script
 
 REQUIREMENTS
 ------------
-  Python 3.13+
-  tensorflow >= 2.20.0
-  tf_keras
-  opencv-python
-  h5py
-  numpy
+  Python 3.13+   
+  tensorflow >= 2.20.0    
+  tf_keras   
+  opencv-python    
+  h5py     
+  numpy    
 
 Install dependencies with:
 
